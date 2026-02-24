@@ -1,0 +1,46 @@
+# 二进制可执行文件
+bin/
+!bin/.gitkeep
+
+# Python 运行时
+python/
+
+# VC 运行库
+VC运行库/
+
+# Cookie 文件 (包含敏感信息)
+*.cookies.txt
+www.youtube.com_cookies.txt
+
+# 下载的视频文件
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+Downloads_Video/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp
